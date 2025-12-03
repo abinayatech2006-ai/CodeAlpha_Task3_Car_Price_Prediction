@@ -7,43 +7,42 @@ Build a machine learning model to predict car selling prices using features like
 Dataset
 
 File: car data.csv
-
 Main Columns Used:
 
-Car_Name
+1.Car_Name
 
-Year
+2.Year
 
-Selling_Price
+3.Selling_Price
 
-Present_Price
+4.Present_Price
 
-Kms_Driven
+5.Kms_Driven
 
-Fuel_Type
+6.Fuel_Type
 
-Seller_Type
+7.Seller_Type
 
-Transmission
+8.Transmission
 
-Owner
+9.Owner
 
 Tasks Completed
-Data Cleaning & Preprocessing
+.Data Cleaning & Preprocessing
 
-Exploratory Data Analysis (EDA)
+.Exploratory Data Analysis (EDA)
 
-Feature Encoding (Categorical → Numeric)
+.Feature Encoding (Categorical → Numeric)
 
-Model Training
+.Model Training
 
-Linear Regression
+.Linear Regression
 
-Random Forest Regressor
+.Random Forest Regressor
 
-Model Performance Evaluation
+.Model Performance Evaluation
 
-Final Prediction Results
+.Final Prediction Results
 
 Key Findings
 Cars manufactured recently have higher resale price
