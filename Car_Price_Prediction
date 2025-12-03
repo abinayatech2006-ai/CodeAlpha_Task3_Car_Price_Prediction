@@ -20,7 +20,6 @@ df['engine'] = pd.to_numeric(df['engine'], errors='coerce')
 
 df['max_power'] = df['max_power'].str.replace(' bhp', '')
 df['max_power'] = pd.to_numeric(df['max_power'], errors='coerce')
-
 df = df.dropna()
 
 features = ['year', 'km_driven', 'fuel', 'seller_type', 'transmission', 'owner', 'mileage', 'engine', 'max_power']
