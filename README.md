@@ -56,7 +56,7 @@ Conclusion:
 Machine learning helps estimate resale value accurately.
 Useful for buyers, sellers, and automobile businesses to make smarter pricing decisions.
 
-Author: <Abinaya>
+Author: [Abinaya]
 
 Date: December 2025
 
